@@ -99,7 +99,7 @@ body{
     display: flex;
     align-items: center;
 }
-img{
+.pfp{
     border: 10px solid white;
     border-radius: 50%;
     background-color: black;
