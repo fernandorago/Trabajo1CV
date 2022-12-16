@@ -403,7 +403,7 @@ margin-top: 10px;
 
 footer{
     background-color: #fdbb2e;
-    height: 60vh;
+    height: 70vh;
 }
 
 .foot{
@@ -412,7 +412,8 @@ footer{
     flex-direction: row;
     box-sizing: border-box; 
     justify-content: space-around ;
-    padding: 30px;
+    padding-top: 7%;
+    
 }
 .lets{
     float: left;
@@ -428,7 +429,11 @@ footer{
 }
 .textoaline{
     text-align: left;
+    padding-bottom: 15px;
 
+}
+.colori{
+    color: rgb(64, 63, 63);
 }
 .bot{
     background-color: black;
