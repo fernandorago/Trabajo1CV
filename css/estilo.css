@@ -348,15 +348,47 @@ margin-top: 10px;
 
 
 /*--Inicia Section 5--*/
+.padre5{
+    background-color:#f6f7f8;
+    height: 900px;
+    
+
+}
 .port{
     background-color: #fdbb2e;
-    margin: 15px;
-       
+    margin: 15px;      
 }
+
 .some{
     margin-top: 20px;
     margin-bottom: 40px;
 }
+.boximg{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap; 
+    height: 400px;
+    margin-top: 30px;
+}
+.bimg{
+    float: left;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 15px;
+    text-align:center;
+    justify-content: space-between;
+}
+/*--Fin section 5--*/
+
+footer{
+    height: 100vh;
+}
+
+
+
+
+
 
     
 
