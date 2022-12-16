@@ -381,6 +381,12 @@ margin-top: 10px;
     text-align:center;
     justify-content: space-between;
 }
+.list{
+    text-decoration: none;
+    color:inherit;
+    
+}
+
 /*--Fin section 5--*/
 
 
@@ -388,7 +394,7 @@ margin-top: 10px;
 
 footer{
     background-color: #fdbb2e;
-    height: 50vh;
+    height: 60vh;
 }
 
 .foot{
@@ -409,6 +415,22 @@ footer{
     height: 300px;
     text-align: left;
 }
+.textoaline{
+    text-align: left;
+
+}
+.bot{
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 90px;
+    
+}
+.send{
+    color: #f6f7f8;
+    font-size: small;
+}
+
 
 
 
