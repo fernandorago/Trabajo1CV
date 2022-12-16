@@ -206,6 +206,7 @@ margin-top: 10px;
     align-items: center;
     background-color:#f6f7f8;
     flex-wrap: wrap;  
+    padding: 30px;
     
 }
 .titulo{
@@ -255,6 +256,9 @@ margin-top: 10px;
 /*--Fin section 3--*/
 
 /*--Section 4--*/
+.section4{
+    padding: 15px;
+}
 .curricv{
     margin-top: 30px;
 }
@@ -437,7 +441,7 @@ footer{
     color: #f6f7f8;
     font-size: small;
 }
-.inputcolor{
+textarea{
     background-color: #fdbb2e;
     
 }
