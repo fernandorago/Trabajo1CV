@@ -371,6 +371,7 @@ margin-top: 10px;
     flex-wrap: wrap; 
     height: 400px;
     margin-top: 30px;
+    
 }
 .bimg{
     float: left;
@@ -381,9 +382,13 @@ margin-top: 10px;
     text-align:center;
     justify-content: space-between;
 }
+
 .list{
     text-decoration: none;
     color:inherit;
+    font-size:15px;
+    margin-left: 50px;
+    
     
 }
 
