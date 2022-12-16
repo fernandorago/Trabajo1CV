@@ -350,13 +350,15 @@ margin-top: 10px;
 /*--Inicia Section 5--*/
 .padre5{
     background-color:#f6f7f8;
-    height: 900px;
-    
-
+    height: 1000px;
 }
 .port{
     background-color: #fdbb2e;
-    margin: 15px;      
+    margin: 15px; 
+    margin-top: 15px;     
+}
+.title{
+    padding-top: 30px;
 }
 
 .some{
@@ -381,8 +383,30 @@ margin-top: 10px;
 }
 /*--Fin section 5--*/
 
+
+/*--Inicia Footer--*/
+
 footer{
-    height: 100vh;
+    background-color: #fdbb2e;
+    height: 50vh;
+}
+
+.foot{
+
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box; 
+    justify-content: space-around ;
+}
+.lets{
+    float: left;
+    width: 600px;
+    height: 300px;
+}
+.estimate{
+    float: left;
+    width: 600px;
+    height: 300px;
 }
 
 
