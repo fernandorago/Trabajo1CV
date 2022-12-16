@@ -408,11 +408,13 @@ footer{
     flex-direction: row;
     box-sizing: border-box; 
     justify-content: space-around ;
+    padding: 30px;
 }
 .lets{
     float: left;
     width: 600px;
     height: 300px;
+    padding-right: 15px;
 }
 .estimate{
     float: left;
@@ -434,6 +436,10 @@ footer{
 .send{
     color: #f6f7f8;
     font-size: small;
+}
+.inputcolor{
+    background-color: #fdbb2e;
+    
 }
 
 
