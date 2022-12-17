@@ -7,7 +7,7 @@
 }
 /*--fin cambio globales--*/
 
-/*--boy y container gral--*/
+/*--body y container gral--*/
 body{
     font-family: 'Poppins', sans-serif;
     display: block;
@@ -105,6 +105,8 @@ body{
     background-color: black;
     margin-left: 20%;
     margin-top: 15px;
+    filter: brightness(85%);
+    
 }
 .boxs{
     display: flex;
