@@ -4,8 +4,14 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;  
+
+}
+:root{
+    
+
 }
 /*--fin cambio globales--*/
+
 
 /*--body y container gral--*/
 body{
@@ -98,6 +104,7 @@ body{
     background-color: #fdbb2e;
     display: flex;
     align-items: center;
+    height: calc(95vh - 70px);
 }
 .pfp{
     border: 10px solid white;
@@ -313,9 +320,7 @@ margin-top: 10px;
     margin-bottom: 35px;
     font-size: 13px;
     background-color: #f6f7f8;
-    
-    
-  
+     
 }
 .desc{
     color: black;
@@ -450,6 +455,7 @@ footer{
 }
 textarea{
     background-color: #fdbb2e;
+    border: none;
     
 }
 
