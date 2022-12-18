@@ -144,7 +144,9 @@ body{
     font-size:20px;
     font-weight: 500;
 }
-
+.devel{
+    animation: maqEscribir 3s steps(13) 3;
+}
 .view{ background-color: black;
 padding: 8px 20px 8px 20px;
 font-size: 10px;
@@ -189,6 +191,7 @@ margin-top: 10px;
 .subox{
     margin-right: 200px;
 }
+
 .ventidos{
     font-family:'Courier New', Courier, monospace;
     font-size: 2cm;
@@ -206,6 +209,7 @@ margin-top: 10px;
 .margender{
     margin-right: 150px;
     padding-right: 5px;
+    text-align: left;
 }
 /*--Fin section2--*/
 
@@ -290,6 +294,11 @@ margin-top: 10px;
 .line{
     border-left: 2px solid #fdbb2e;
     padding-left: 15px;
+
+}
+.line hr{
+    margin-top:20px;
+    margin-bottom:20px;
 }
 .cajaedu h2{
     text-align: left;
