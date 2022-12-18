@@ -32,6 +32,8 @@ body{
     align-items: center;
     
 }
+
+
 /*--FIN boy y container gral--*/
 
 /*--HEADER--*/
@@ -96,6 +98,7 @@ body{
 .fa-instagram:hover{
     color: rgb(40, 38, 38);
     }
+
 
 /*--FIN HEADER--*/
 
@@ -335,6 +338,8 @@ margin-top: 10px;
 }
 .desc{
     color: black;
+    text-decoration: none;
+    
     
 }
 
