@@ -114,12 +114,14 @@ body{
     height: calc(95vh - 70px);
 }
 .pfp{
-    border: 10px solid white;
+    border: 7px solid white;
     border-radius: 50%;
     background-color: black;
-    margin-left: 20%;
+    margin-left: 10%;
+    margin-right: 15%;
     margin-top: 15px;
-    filter: brightness(85%);
+    width: 400px;
+    height: 400px;
     
 }
 .boxs{
@@ -210,12 +212,12 @@ margin-top: 10px;
 .dates{
     display: flex;
     align-content: space-between;
-    width:1800px;
+    width:1300px;
     margin-top: 80px;
    
 }
 .margender{
-    margin-right: 150px;
+    margin-right: 130px;
     padding-right: 5px;
     text-align: left;
 }
@@ -262,7 +264,6 @@ margin-top: 10px;
     height: 150px;
     padding: 10px;
     margin: 15px;
-    
     text-align:center;
     justify-content: space-between;
 }
