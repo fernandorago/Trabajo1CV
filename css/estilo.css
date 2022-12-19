@@ -6,10 +6,14 @@
     box-sizing: border-box;  
 
 }
-:root{
-    
-
-}
+:root {
+    --color-desierto: #eee8aa;
+    --color-facebook: #1877f2;
+    --color-instagram: #c13584;
+    --color-github: #26a641;
+    --color-letras: #252b33;
+    --color-subtitulo: #6c757d;
+  }
 /*--fin cambio globales--*/
 
 
@@ -90,13 +94,13 @@ body{
     transform: scale(1.5);
 }
 .fa-facebook:hover{
-    color:blue;
+    color:var(--color-facebook);
 }
 .fa-twitter:hover{
     color: cornflowerblue;
 }
 .fa-instagram:hover{
-    color: rgb(40, 38, 38);
+    color:var(--color-instagram);
     }
 
 
@@ -483,6 +487,9 @@ textarea{
     border: none;
     
 }
+
+
+
 
 
 
