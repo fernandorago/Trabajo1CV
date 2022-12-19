@@ -199,9 +199,10 @@ margin-top: 10px;
     font-family:'Courier New', Courier, monospace;
     font-size: 2cm;
     background-color: #fdbb2e;
-    border-radius: 50%;
+    border-radius: 60%;
     font-weight: 1000;    
 }
+
 .dates{
     display: flex;
     align-content: space-between;
